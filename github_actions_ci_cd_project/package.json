@@ -1,1 +1,0 @@
-{"name": "ci-cd-example", "version": "1.0.0", "description": "Example Node.js project for GitHub Actions CI/CD pipeline", "main": "index.js", "scripts": {"test": "echo "Error: no test specified" && exit 1", "build": "echo "Building the project...""}, "author": "Vitor Cesar Lescowicz", "license": "ISC"}
